@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 3.11.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<bounds minlat="40.790379285416059" minlon="-7.931355999999976" maxlat="40.799223855130364" maxlon="-7.927661882268353"/>                                       
+</metadata>
+<trk>
+  <name>Estrada Nacional 2 , Chaves / Faro ( EN2 )</name>
+  <extensions>
+    <ogr:FIRST_Conc>SÃO PEDRO DO SUL</ogr:FIRST_Conc>
+  </extensions>
+  <trkseg>
+    <trkpt lat="40.799223855130364" lon="-7.927661882268353">
+        <ele>321.565100000007078</ele>
+    </trkpt>
+    <trkpt lat="40.798964" lon="-7.928202">
+        <ele>322.278000000005704</ele>
+    </trkpt>
+    <trkpt lat="40.798526" lon="-7.928889">
+        <ele>331.43300000000454</ele>
+    </trkpt>
+    <trkpt lat="40.796446" lon="-7.929683">
+        <ele>356.826000000000931</ele>
+    </trkpt>
+    <trkpt lat="40.795033" lon="-7.930069">
+        <ele>369.207999999998719</ele>
+    </trkpt>
+    <trkpt lat="40.793392" lon="-7.93097">
+        <ele>382.877999999996973</ele>
+    </trkpt>
+    <trkpt lat="40.791963" lon="-7.931356">
+        <ele>386.19100000000617</ele>
+    </trkpt>
+    <trkpt lat="40.791297" lon="-7.93097">
+        <ele>392.092000000004191</ele>
+    </trkpt>
+    <trkpt lat="40.790761" lon="-7.930541">
+        <ele>394.372000000003027</ele>
+    </trkpt>
+    <trkpt lat="40.790379285416059" lon="-7.930560424529141">
+        <ele>399.777000000001863</ele>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>
